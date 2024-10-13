@@ -10,4 +10,8 @@ class VideoPlayer {
             println("Video not found")
         }
     }
+    fun stopVideo() {
+        // Logic to stop video playback
+        println("Stopping video")
+    }
 }
