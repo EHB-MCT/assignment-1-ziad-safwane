@@ -1,15 +1,10 @@
-# Your project name
-A short description of your project. 
+# Interactive Map projector
+The project aims to provide information about highlighted sections of a customizable Dungeon's & Dragons tile based map, with each highlighted area linked to a video for further explanation or context about the environment or lore tidbits.
 
-Next, read this example and adapt it to your project.
-
-If you want to add more sections, please do so after the existing ones (avoid burying your sources under a lot of text!).
-
-Live link: [website.be](website.be) (optional)
 
 ## Up & running (optional)
-- This should contain step by step instructions to run your project
-- Login information is mentioned here if applicable.
+- Gradle
+- Maven
 
 ## Sources 
 
